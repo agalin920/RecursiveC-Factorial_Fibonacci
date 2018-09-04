@@ -1,4 +1,4 @@
-# factorial_fibonacci-recursive
+# factorial-fibonacci-recursive
 
 Two C programs that use recursive functions
 
